@@ -1,0 +1,5 @@
+{
+  "name": "HK Weather Dashboard",
+  "description": "A comprehensive Hong Kong weather dashboard with current conditions, 9-day forecast, air quality, and interactive radar/wind maps.",
+  "requestFramePermissions": ["geolocation"]
+}
